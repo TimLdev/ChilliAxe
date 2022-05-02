@@ -1,0 +1,9 @@
+name: ChilliAxe
+version: '${project.version}'
+main: dev.tim.chilliaxe.ChilliAxe
+api-version: 1.18
+authors: [ TimLdev ]
+description: ChilliAxe plugin from Fiverr
+website: fiverr.com/timldev
+commands:
+  chilliaxe:
