@@ -1,5 +1,6 @@
 # ChilliAxe
 *Plugin language is: EN/English*
+
 *Recommended Minecraft version: 1.18+*
 
 A custom axe with a chilli pepper texture.
