@@ -1,7 +1,7 @@
 # ChilliAxe
 *Plugin language is: EN/English*
-
 *Recommended Minecraft version: 1.18+*
+
 A custom axe with a chilli pepper texture.
 The axe got the enchants: Sharpness 6 and Efficiency 5. This plugin is created for a person on Fiverr.
 The resource pack for the chilli axe will automatically download when you join the server.
