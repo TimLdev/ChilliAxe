@@ -1,6 +1,6 @@
-# ChilliAxe: Minecraft Spigot Plugin
+# ChilliAxe
 A custom axe with a chilli pepper texture.
-The axe got the enchants: Sharpness 6 and Efficiency 5 wich can not be changed. This plugin is created for a person on Fiverr.com.
+The axe got the enchants: Sharpness 6 and Efficiency 5. This plugin is created for a person on Fiverr.
 The resource pack for the chilli axe will automatically download when you join the server.
 
 ![image](https://user-images.githubusercontent.com/83028453/166278266-642dd26a-7f9f-47a4-acc9-877e4efa1ef3.png)
