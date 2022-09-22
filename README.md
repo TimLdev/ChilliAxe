@@ -15,6 +15,6 @@ The axe got the enchants: Sharpness 6 and Efficiency 5 and when holding the axe 
 ## Config.yml File
 `chilli-axe-name: '&4&lChilli Axe'` Here you can change the name of the chilli axe.
 ## Contact
-Discord: **£Tim#0221**
+Discord: **TIM#0221**
 ## Crafting Recipe
 ![image](https://user-images.githubusercontent.com/83028453/166276296-b8d9910f-1715-4335-970e-08e4e2c6d1ac.png)
